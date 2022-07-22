@@ -3,7 +3,7 @@
 <!--
 **wonseokLee97/wonseokLee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={bulnabang99})](https://solved.ac/{bulnabang99})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulnabang99)](https://solved.ac/bulnabang99)
 
 Here are some ideas to get you started:
 
