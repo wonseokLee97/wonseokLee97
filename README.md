@@ -2,7 +2,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulnabang99)](https://solved.ac/bulnabang99)
-Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on SSAFY
