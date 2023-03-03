@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on SSAFY
 - 🌱 I’m currently learning Java and Java-based frameworks
-- - 📫 How to reach me: bulnabang99@gmail.com
+- 📫 How to reach me: bulnabang99@gmail.com
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
