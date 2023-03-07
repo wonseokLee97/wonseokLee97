@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulnabang99)](https://solved.ac/bulnabang99)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bulnabang99&theme=cold) 
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulnabang99)](https://solved.ac/bulnabang99) -->
 
 
 - 🔭 I’m currently working on SSAFY
