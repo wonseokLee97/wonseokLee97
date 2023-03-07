@@ -4,7 +4,7 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulnabang99)](https://solved.ac/bulnabang99) -->
 
 
-- 🔭 I’m currently working on SSAFY
+- 🔭 I’m currently working on SSAFY 8th
 - 🌱 I’m currently learning Java and Java-based frameworks
 - 📫 How to reach me: bulnabang99@gmail.com
 <!-- 
