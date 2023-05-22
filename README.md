@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=bulnabang99&theme=cold) 
+<a href="https://github.com/wonseokLee97"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonseokLee97&theme=dracula&layout=compact&langs_count=10" /></a>
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulnabang99)](https://solved.ac/bulnabang99) -->
 
 
@@ -8,7 +10,7 @@
 - 🌱 I’m currently learning Java and Java-based frameworks
 - 📫 How to reach me: bulnabang99@gmail.com
 
-<a href="https://github.com/wonseokLee97"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonseokLee97&theme=dracula&layout=compact&langs_count=10" /></a>
+
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
