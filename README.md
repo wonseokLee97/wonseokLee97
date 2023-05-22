@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on SSAFY 8th
 - 🌱 I’m currently learning Java and Java-based frameworks
 - 📫 How to reach me: bulnabang99@gmail.com
+
+<a href="https://github.com/wonseokLee97"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonseokLee97&theme=dracula&layout=compact&langs_count=10" /></a>
+
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
